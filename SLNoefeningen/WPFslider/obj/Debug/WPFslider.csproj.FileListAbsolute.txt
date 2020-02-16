@@ -1,0 +1,14 @@
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\bin\Debug\WPFslider.exe.config
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\bin\Debug\WPFslider.exe
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\bin\Debug\WPFslider.pdb
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\WPFslider.csprojAssemblyReference.cache
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\MainWindow.g.cs
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\App.g.cs
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\WPFslider_MarkupCompile.cache
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\WPFslider_MarkupCompile.lref
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\MainWindow.baml
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\WPFslider.g.resources
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\WPFslider.Properties.Resources.resources
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\WPFslider.csproj.GenerateResource.cache
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\WPFslider.exe
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFslider\obj\Debug\WPFslider.pdb

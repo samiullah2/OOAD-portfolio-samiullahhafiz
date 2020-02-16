@@ -1,0 +1,14 @@
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\bin\Debug\WPFpunten.exe.config
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\bin\Debug\WPFpunten.exe
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\bin\Debug\WPFpunten.pdb
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\WPFpunten.csprojAssemblyReference.cache
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\MainWindow.g.cs
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\App.g.cs
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\WPFpunten_MarkupCompile.cache
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\WPFpunten_MarkupCompile.lref
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\MainWindow.baml
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\WPFpunten.g.resources
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\WPFpunten.Properties.Resources.resources
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\WPFpunten.csproj.GenerateResource.cache
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\WPFpunten.exe
+C:\Users\hafiz\source\repos\SLNoefeningen\WPFpunten\obj\Debug\WPFpunten.pdb
